@@ -1,14 +1,23 @@
- {
-    "title": "WOD20th Compendium",
+{
+	"title": "WOD20th Compendium",
     "description": "WOD20th Compendium",
     "id": "WOD20th-Compendium",
     "version": "0.0.1",
     "authors": [
         {
             "name": "Khaos Farbauti Ibn Oblivion",
-            "email": "propserv@hotmail.com",
+            "email": "propserv@hotmail.com"
         }
     ],
+	"packs": [
+		{
+			"name": "combat-wod",
+			"label": "Combat WOD",
+			"path": "packs/combat-wod",
+			"type": "Item",
+			"system": "worldofdarkness"
+		}
+	],  
     "compatibility": {
         "minimum": "12",
         "verified": "12"
