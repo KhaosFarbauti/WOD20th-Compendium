@@ -2,7 +2,7 @@
 	"title": "WOD20th Compendium",
     "description": "WOD20th Compendium",
     "id": "WOD20th-Compendium",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
         {
             "name": "Khaos Farbauti Ibn Oblivion",
@@ -11,13 +11,21 @@
     ],
 	"packs": [
 		{
+			"label": "combat-wod",
 			"name": "combat-wod",
 			"label": "Combat WOD",
 			"path": "packs/combat-wod",
 			"type": "Item",
 			"system": "worldofdarkness"
+		},
+	    {
+			"label": "XP",
+			"type": "Item",
+			"name": "xp",
+			"path": "packs/xp",
+			"system": "worldofdarkness",
 		}
-	],  
+	],
     "compatibility": {
         "minimum": "12",
         "verified": "12"
