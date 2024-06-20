@@ -23,7 +23,7 @@
 			"type": "Item",
 			"name": "xp",
 			"path": "packs/xp",
-			"system": "worldofdarkness",
+			"system": "worldofdarkness"
 		}
 	],
     "compatibility": {
