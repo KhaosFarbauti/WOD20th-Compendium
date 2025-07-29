@@ -49,6 +49,8 @@
     "minimum": "12",
     "verified": "13.336"
   },
-  "url": "file:///E:/git/WOD20th-Compendium/module.json",
+  "url": "file:///E:/git/WOD20th-Compendium/",
+  "manifest": "file:///E:/git/WOD20th-Compendium/module.json",
+  "download": "file:///E:/git/WOD20th-Compendium/module.zip",
   "flags": {}
 }
