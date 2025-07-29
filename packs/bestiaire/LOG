@@ -1,18 +1,14 @@
-2025/07/29-09:27:52.223 9d1c Recovering log #39
-2025/07/29-09:27:52.223 9d1c Level-0 table #41: started
-2025/07/29-09:27:52.226 9d1c Level-0 table #41: 4445 bytes OK
-2025/07/29-09:27:52.233 9d1c Delete type=0 #39
-2025/07/29-09:27:52.233 9d1c Delete type=3 #37
-2025/07/29-10:42:12.008 9ba4 Level-0 table #44: started
-2025/07/29-10:42:12.013 9ba4 Level-0 table #44: 66919 bytes OK
-2025/07/29-10:42:12.014 9ba4 Delete type=0 #42
-2025/07/29-10:42:12.024 9ba4 Manual compaction at level-0 from '!actors!0H1g6i2WYGUuPJJd' @ 72057594037927935 : 1 .. '!folders!VtkeyAJlEnT91a9v' @ 0 : 0; will stop at '!actors!rrt7CFtHoPZJTWf1' @ 307 : 1
-2025/07/29-10:42:12.024 9ba4 Compacting 3@0 + 1@1 files
-2025/07/29-10:42:12.028 9ba4 Generated table #45@0: 18 keys, 28654 bytes
-2025/07/29-10:42:12.029 9ba4 Compacted 3@0 + 1@1 files => 28654 bytes
-2025/07/29-10:42:12.031 9ba4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/29-10:42:12.031 9ba4 Delete type=2 #36
-2025/07/29-10:42:12.031 9ba4 Delete type=2 #38
-2025/07/29-10:42:12.031 9ba4 Delete type=2 #41
-2025/07/29-10:42:12.032 9ba4 Delete type=2 #44
-2025/07/29-10:42:12.036 9ba4 Manual compaction at level-0 from '!actors!rrt7CFtHoPZJTWf1' @ 307 : 1 .. '!folders!VtkeyAJlEnT91a9v' @ 0 : 0; will stop at (end)
+2025/07/29-11:14:06.889 8a60 Recovering log #48
+2025/07/29-11:14:06.894 8a60 Delete type=0 #48
+2025/07/29-11:14:06.894 8a60 Delete type=3 #46
+2025/07/29-11:30:07.021 9ba4 Level-0 table #54: started
+2025/07/29-11:30:07.027 9ba4 Level-0 table #54: 48481 bytes OK
+2025/07/29-11:30:07.029 9ba4 Delete type=0 #52
+2025/07/29-11:30:07.042 9ba4 Manual compaction at level-0 from '!actors!0H1g6i2WYGUuPJJd' @ 72057594037927935 : 1 .. '!folders!VtkeyAJlEnT91a9v' @ 0 : 0; will stop at '!actors!rrt7CFtHoPZJTWf1' @ 341 : 1
+2025/07/29-11:30:07.042 9ba4 Compacting 1@0 + 1@1 files
+2025/07/29-11:30:07.046 9ba4 Generated table #55@0: 18 keys, 28670 bytes
+2025/07/29-11:30:07.046 9ba4 Compacted 1@0 + 1@1 files => 28670 bytes
+2025/07/29-11:30:07.047 9ba4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/29-11:30:07.047 9ba4 Delete type=2 #50
+2025/07/29-11:30:07.047 9ba4 Delete type=2 #54
+2025/07/29-11:30:07.056 9ba4 Manual compaction at level-0 from '!actors!rrt7CFtHoPZJTWf1' @ 341 : 1 .. '!folders!VtkeyAJlEnT91a9v' @ 0 : 0; will stop at (end)
