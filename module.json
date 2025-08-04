@@ -2,7 +2,7 @@
   "title": "WOD20th Compendium",
   "description": "<p>WOD20th Compendium</p>",
   "id": "WOD20th-Compendium",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     {
       "name": "Khaos Farbauti Ibn Oblivion",
@@ -52,6 +52,6 @@
   },
   "url": "https://github.com/KhaosFarbauti/WOD20th-Compendium/",
   "manifest": "https://github.com/KhaosFarbauti/WOD20th-Compendium/releases/latest/download/module.json",
-  "download": "https://github.com/KhaosFarbauti/WOD20th-Compendium/releases/download/0.1.0/module.zip",
+  "download": "https://github.com/KhaosFarbauti/WOD20th-Compendium/releases/download/0.1.1/module.zip",
   "flags": {}
 }
